@@ -20,11 +20,11 @@ i) Check the missing values
 ii) Age and BMI columns transform into categorical data types
 
         Table 1: The Description of Variables After Data Transformation
- ![](https://github.com/gauravtopre9/Business-Intelligence-Projectss/blob/main/POWER%20BI/SALES%20INSIGHTS/Star%20Schema.PNG?raw=true)       
-![Screenshot 2024-01-06 155326](https://github.com/hidayahkhamsani/Test/assets/91473397/5b552c28-c6e6-4f13-a4af-734724240828)
+ ![](https://github.com/hidayahkhamsani/Project/blob/main/PowerBI/Medical%20Insurance%20Cost/Screenshot%202024-01-06%20155326.png?raw=true)      
 
 The dashboard of medical insurance costs is obtained, and visualization tools are used to provide the information needed.
 
 ### Snips of Dashboard
 
-![Screenshot 2024-01-06 140259](https://github.com/hidayahkhamsani/Test/assets/91473397/c7974289-20dc-4240-b5a5-16236f9a556b)
+![](PowerBI/Medical Insurance Cost/Screenshot 2024-01-06 155326.png
+https://github.com/hidayahkhamsani/Project/blob/main/PowerBI/Medical%20Insurance%20Cost/project%201.pbix)
