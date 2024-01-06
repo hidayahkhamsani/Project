@@ -26,4 +26,4 @@ The dashboard of medical insurance costs is obtained, and visualization tools ar
 
 ### Snips of Dashboard
 
-![](https://github.com/hidayahkhamsani/Project/blob/main/PowerBI/Medical%20Insurance%20Cost/project%201.pbix?raw=true)
+![](https://github.com/hidayahkhamsani/Project/blob/main/PowerBI/Medical%20Insurance%20Cost/Screenshot%202024-01-06%20140259.png?raw=true)
