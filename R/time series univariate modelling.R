@@ -95,9 +95,9 @@ summary(M5)
 BIC(M5)
 Box.test(M5$residuals)
 
-#M5 will be used for forecasting
+#M3 will be used for forecasting
 # Forecast future values using the ARIMA model 'M3'
-future_forecast <- forecast(M5, h =24)  # Change 'h' to the number of future periods to forecast
+future_forecast <- forecast(M3, h =24)  # Change 'h' to the number of future periods to forecast
 summary(future_forecast)
 
 # Plot the forecasted values
