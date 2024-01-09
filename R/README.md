@@ -34,8 +34,10 @@ From Figure 3, the ACF plot indicates that 2 lags are outside of the confidence 
 
 Figure 4 shows the evaluation metrics and Box-Pierce Test results for all ARIMA models. ARIMA(1,1,2) outperformed all the other models. ARIMA(1,1,2) has the highest log-likelihood and smallest RMSE value. Even though the AIC and BIC values for the ARIMA(1,1,2) model are not the smallest, the values are nearly identical to other models. Hence, ARIMA(1,1,2) is chosen as the best model for forecasting the monthly rice price. The Box-Pierce test indicates that the model has no autocorrelation problem since the p-value is more than 0.05. 
 
-![](https://github.com/hidayahkhamsani/Project/blob/main/R/forecast%20graph.png?raw=true)       ![](https://github.com/hidayahkhamsani/Project/blob/main/R/Table%20Future%20Forecast%202023.png?raw=true)
-              Figure 5: Forecast Graph on R                                                                                        Figure 6: Forecast Graph on R
+![](https://github.com/hidayahkhamsani/Project/blob/main/R/forecast%20graph.png?raw=true)     
+
+![](https://github.com/hidayahkhamsani/Project/blob/main/R/Table%20Future%20Forecast%202023.png?raw=true)
+                                                                                            
 In conclusion, it is expected that the rice price will rise in 2023.            
 
 
