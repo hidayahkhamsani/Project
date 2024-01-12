@@ -29,7 +29,7 @@ Secondary data was collected from the Bursa Malaysia website. The secondary data
 <p style="text-align: justify;">
 Secondary data from the Bursa website is used in data collection. Next, this study used the data collection to figure out the variable measurement for proxy in the pressure, opportunity and rationalization in the triangle theory which are financial stability, leverage, financial target, liquidity, the number of audit committees and auditor changes. The Beneish’s M-score variable measurement must be calculated using collected data to determine whether a company's presence is fraud or vice versa. The independent variables used in this study are financial stability, leverage, financial target, liquidity, number of audit committees and auditor changes. The binary dependent variable used in this study is the presence of financial statement fraud. Next, check and fulfil the assumptions of the logistic regression model before starting the analysis. A logistic regression analysis test is used to investigate proxies that affect the presence of financial statement fraud. The proxy is significant if the p-value is less than 0.05.
 For comparison classification method between the logistic regression model and the random forest model, RapidMiner software was used in this study. In data preparation, use select attributes, map, set role, normalize, detect outliers (distance) and Synthetic Minority Over-Sampling Technique (SMOTE) upsampling for data ready for analysis. As for the feature selection, utilize three wrapper methods which are backward elimination, forward selection and optimize selection. Next, the dataset will be split into two stages which are 0.8 for training the dataset and 0.2 for testing the dataset. In model evaluation, use the logistic regression model and random forest model to compare the confusion matrix (accuracy, sensitivity, specificity, precision) and receiver operating characteristic (ROC) curve to determine the best classification method for financial statement fraud detection in a few sectors of public listed companies in Malaysia.
-
+</p>
 #### Variable Measurement
 Data of concern in the annual report of the company in Table 1 used for triangle theory and Beneish’s M-score measurement.
 
@@ -40,7 +40,6 @@ Data of concern in the annual report of the company in Table 1 used for triangle
 ![](https://github.com/hidayahkhamsani/Project/blob/main/FYP_master/Calculation%20of%20M-scorel.png?raw=true) 
              
               Figure 1: Calculation of Beneish Model  
-</p>
 
 ### Result and Discussion
 <p style="text-align: justify;">
